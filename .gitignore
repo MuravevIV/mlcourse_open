@@ -109,8 +109,17 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# Submission files
+*/output
+
+# Idea
+*.idea
+
 # large data files
 data/athlete_events.csv
 
 # solutions
 *_solution.ipynb
+
+# Generated images
+jupyter_notebooks/topic*/*.png
